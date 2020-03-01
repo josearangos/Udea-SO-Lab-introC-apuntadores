@@ -1,0 +1,14 @@
+Responda las siguientes preguntas:
+
+¿Que hace el programa anterior?
+Crea un vector de 1000 posiciones en donde guarda caracteres obtenidos con getchar() desde consola, luego va guardando
+estos caracteres en la matriz previamente creada. Todo esto lo realizara mientras no se termine la matriz se indique el fin de archivo del archivo.
+Finalmente muestra los valores guardados en la matriz con putchar().
+
+Describa las funciones getchar y putchar
+
+getchar(): se utiliza para leer caracteres ingresados por consola.
+putchar(): muestra por pantalla caracteres.
+
+¿Cuales son las condiciones necesarias para que el primer ciclo deje de ejecutarse?
+Mientras no se termine la matriz de 1000 posiciones o se indique el fin de archivo(EOF).
